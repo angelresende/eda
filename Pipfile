@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pandas = "*"
 matplotlib = "*"
+scipy = "*"
+sweetviz = "*"
 
 [dev-packages]
 ipykernel = "*"
